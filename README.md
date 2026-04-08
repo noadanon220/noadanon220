@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=CS+Student+%40+Afeka+College;Android+%26+Full-Stack+Developer;Design+Background+%F0%9F%8E%A8%E2%86%92%F0%9F%92%BB;Always+building+something+new+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=18&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=CS+Student+%40+Afeka+College;Android+%26+Full-Stack+Developer;Design+Background+%F0%9F%8E%A8%E2%86%92%F0%9F%92%BB;Always+building+something+new+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,9 +78,9 @@ const noa: Developer = {
 
 <div align="center">
 
-![Noa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noadanon220&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&icon_color=bc13fe&text_color=c9d1d9)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noadanon220&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=noadanon220&theme=tokyonight&hide_border=true&background=0d1117&ring=bc13fe&fire=bc13fe&currStreakLabel=bc13fe&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noadanon220&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&text_color=c9d1d9&langs_count=6)](https://github.com/noadanon220)
 
 </div>
 

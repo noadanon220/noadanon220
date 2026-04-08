@@ -1,10 +1,10 @@
 <svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&amp;display=swap');
       .bg-rect { fill: #0d0221; }
       .main-title {
-        font-family: 'Orbitron', sans-serif;
+        font-family: 'Momo Trust Display', sans-serif;
         font-size: 80px;
         fill: #bc13fe;
         filter: drop-shadow(0 0 10px #bc13fe);
