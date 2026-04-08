@@ -61,6 +61,7 @@
 
 ## 👾 About Me
 
+```typescript
 const noa: Developer = {
   education:  "B.Sc. Computer Science — Afeka College of Engineering (2022–2025)",
   background: ["Diploma in Animation & Design", "Freelance Graphic Designer (2019–2022)"],
@@ -69,6 +70,7 @@ const noa: Developer = {
   design:     ["Figma", "Illustrator", "Photoshop", "After Effects"],
   funFact:    "Graphic designer turned engineer 🎨→💻",
 };
+```
 
 ---
 
