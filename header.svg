@@ -57,7 +57,7 @@
 
   <text x="50%" y="210" dominant-baseline="middle" text-anchor="middle"
         fill="#d896ff" font-family="monospace" font-size="18">
-    &gt; INITIALIZING_CREATIVE_SYSTEM... [DONE]
+    &gt; ready to build something.
   </text>
 
   <line x1="100" y1="50" x2="800" y2="50" class="scanner" />
