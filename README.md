@@ -1,55 +1,6 @@
 <div align="center">
 
-<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
-    .bg-rect { fill: #0d0221; }
-    .main-title {
-      font-family: 'Orbitron', sans-serif;
-      font-size: 80px;
-      fill: #bc13fe;
-      filter: drop-shadow(0 0 10px #bc13fe);
-      text-transform: uppercase;
-      animation: glitch 3s infinite;
-    }
-    @keyframes glitch {
-      0%   { transform: translate(0); }
-      2%   { transform: translate(-2px, 2px); }
-      4%   { transform: translate(2px, -2px); }
-      6%   { transform: translate(0); }
-      100% { transform: translate(0); }
-    }
-    .floating-cat {
-      fill: none; stroke: #bc13fe; stroke-width: 1.5; opacity: 0.4;
-      filter: drop-shadow(0 0 5px #bc13fe);
-      animation: float 6s infinite ease-in-out;
-    }
-    @keyframes float {
-      0%, 100% { transform: translateY(0) rotate(0deg); }
-      50%       { transform: translateY(-20px) rotate(10deg); }
-    }
-    .scanner {
-      stroke: #bc13fe; stroke-width: 2;
-      filter: drop-shadow(0 0 15px #bc13fe);
-      animation: scan 4s infinite linear;
-    }
-    @keyframes scan {
-      0%   { y1: 50;  y2: 50;  opacity: 0; }
-      50%  { opacity: 1; }
-      100% { y1: 250; y2: 250; opacity: 0; }
-    }
-  </style>
-  <rect width="900" height="300" class="bg-rect" rx="15" />
-  <g class="floating-cat" style="animation-delay: 0s;">
-    <path d="M100,80 Q110,60 130,70 T150,90 T130,120 T100,100 Z" />
-  </g>
-  <g class="floating-cat" style="animation-delay: 2s; transform: translate(650px, 150px) scale(0.8);">
-    <path d="M100,80 Q110,60 130,70 T150,90 T130,120 T100,100 Z" />
-  </g>
-  <text x="50%" y="150" dominant-baseline="middle" text-anchor="middle" class="main-title">NOA DANON</text>
-  <text x="50%" y="210" dominant-baseline="middle" text-anchor="middle" fill="#d896ff" font-family="monospace" font-size="18">&gt; INITIALIZING_CREATIVE_SYSTEM... [DONE]</text>
-  <line x1="100" y1="50" x2="800" y2="50" class="scanner" />
-</svg>
+<img src="./header.svg" width="100%" alt="Noa Danon" />
 
 <br/>
 
