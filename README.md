@@ -2,32 +2,31 @@
 
 <img src="./header.svg" width="100%" alt="Noa Danon" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=18&pause=1200&color=BC13FE&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Turning+ideas+into+real+products;Design+meets+development;Open+for+work+%E2%9C%A8)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-## 👾 About Me
+Hey, I'm Noa 👋
 
-```typescript
-const noa: Developer = {
-  education:  "B.Sc. Computer Science — Afeka College of Engineering (2022–2025)",
-  background: ["Diploma in Animation & Design", "Freelance Graphic Designer (2019–2022)"],
-  focus:      ["Android Dev", "Full-Stack", "AI & Algorithms"],
-  languages:  ["Java", "Kotlin", "C++", "Python", "TypeScript", "JavaScript"],
-  design:     ["Figma", "Illustrator", "Photoshop", "After Effects"],
-  funFact:    "Graphic designer turned engineer 🎨→💻",
-};
-```
+I'm someone who genuinely can't decide if I'm a developer who designs, or a designer who codes. Both feel true. Neither feels complete without the other.
+
+I studied Computer Science at Afeka College, but I also have a design background — which means I notice bad kerning before I notice bugs. (I fix both.)
+
+The things I care about when building something:
+
+- Does it **look** like someone thought about it?
+- Does it **feel** good to use?
+- Would I actually use it myself?
+
+If the answer to all three is yes, I ship it.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 What I work with
 
-**Languages**
+*(things I've used enough to actually mean it)*
+
+**Languages I think in:**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -37,40 +36,53 @@ const noa: Developer = {
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**Mobile & Frontend**
+**Tools I actually open:**
 
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-**Design**
-
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**Design tools (yes, this counts):**
+
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've built
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🐾 [**Paws**](https://github.com/noadanon220/paws) | Android pet-care app — manage walks, vet visits & feeding times | `Kotlin` `Firebase` `Jetpack` |
-| 🤖 [**AI Tactical Combat Sim**](https://github.com/noadanon220/ai-game-simulation) | 2D strategic AI game with A*, BFS & FSM algorithms | `C++` `OpenGL` |
-| 🏦 [**Bank System**](https://github.com/noadanon220/bank-system) | Console banking app with multi-account management | `Java` `OOP` |
-| 🧩 [**Rubik's Cube Solver**](https://github.com/noadanon220/rubiks-cube) | Interactive cube simulation with real-time 3D rendering | `C++` `SFML` |
-| ✨ [**Gemini Clone**](https://github.com/noadanon220/gemini-clone) | Fully functional AI chat interface with real-time history | `React` `Gen AI SDK` |
+**🐾 Paws** — An Android app for managing your pet's life. Walks, vet visits, feeding schedules. Built it because pet care apps were either ugly or missing features. Fully built from scratch with Kotlin + Firebase.
+
+**🤖 AI Tactical Combat Simulation** — A 2D war game where AI units make real decisions using A\*, BFS and FSM algorithms. Basically: I gave the computer a strategy brain and watched it fight.
+
+**🏦 Bank System** — A console banking application with account management and client operations. Less exciting to describe, more satisfying to build correctly.
+
+**🧩 Rubik's Cube Solver** — Interactive 3D cube simulation with a solver built in. A project that started as "how hard can it be" and became a whole thing.
+
+**✨ Gemini Clone** — Rebuilt Google's Gemini AI chat interface with React. Because the best way to understand something is to build it yourself.
+
+---
+
+## 🐶 Chubby
+
+This is Chubby. He's my dog, my moral support, and my senior co-founder.
+
+He has never written a single line of code.
+He has never reviewed a PR.
+He has never met a deadline.
+
+And yet somehow, he's always in the room when something finally works.
+
+```
+> git commit -m "fix: everything"
+# Chubby: *wags tail*
+# Me: yeah. we did it.
+```
+
+*If you have a dog, you already understand. If you don't — get one.*
 
 ---
 
@@ -86,12 +98,13 @@ const noa: Developer = {
 
 ---
 
-## 🌐 Connect
+## 🌐 Let's talk
+
+I'm open to work, collaboration, or honestly just a good conversation about something you're building.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noadanon/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noadanon220)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23bc13fe.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://noadanon220.github.io/noa-danon-portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noadanon220@gmail.com)
 
@@ -102,5 +115,5 @@ const noa: Developer = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=noadanon220&color=bc13fe&style=flat-square&label=profile+views" />
   <br/><br/>
-  <sub>built with ♥ — and my dog 🐾</sub>
+  <sub>made with ♥ — and Chubby supervising 🐶</sub>
 </div>
